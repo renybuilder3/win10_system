@@ -1,0 +1,3 @@
+[submodule "ext/Win10SysProgBookSamples"]
+	path = ext/Win10SysProgBookSamples
+	url = git@github.com:zodiacon/Win10SysProgBookSamples.git
